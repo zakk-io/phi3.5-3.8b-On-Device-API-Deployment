@@ -33,8 +33,8 @@ Based on testing on a **12th Gen Intel i7-1255U (16GB RAM)**, here is the perfor
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/zakk-io/phi3.5-3.8b-On-Device-API-Deployment.git
+   cd phi3.5-3.8b-On-Device-API-Deployment/
    ```
 
 2. **Set up a virtual environment:**
