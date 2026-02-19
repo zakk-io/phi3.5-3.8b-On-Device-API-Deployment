@@ -88,3 +88,8 @@ The API restricts usage to the following verified quantized versions:
 - `phi3.5:3.8b-mini-instruct-q2_K`
 
 
+
+## Watch the live demo on [YouTube](https://youtu.be/nDH9zMEL4GQ?si=PwCpnriCZ8Meugbq)
+
+
+
